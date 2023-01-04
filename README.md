@@ -2,4 +2,4 @@
 
 ---
 
-A program that keeps tracks of beverage orders
+A program that tracks orders and sales at a beverage shop.
